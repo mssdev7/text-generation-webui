@@ -1,3 +1,6 @@
 # Add persistent flags here to use every time you launch the web UI.
 # Example:
-# --listen --api
+--listen --api
+--gradio-auth cleiton:72238190
+
+--cpu
